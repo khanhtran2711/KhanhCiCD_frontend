@@ -21,6 +21,12 @@ const images = [
     title: 'Random Image 4',
     url: 'https://picsum.photos/400/250?random=4'
   }
+   ,
+  {
+    id: 5,
+    title: 'Random Image 5',
+    url: 'https://picsum.photos/400/250?random=54'
+  }
 ]
 </script>
 
